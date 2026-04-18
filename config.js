@@ -79,6 +79,7 @@ const CONFIG = {
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
     title: "이종원 ♥ 이은호 결혼합니다",
-    description: "2026년 10월 3일, 소중한 분들을 초대합니다."
+    description: "2026년 10월 3일, 소중한 분들을 초대합니다.",
+     image: "https://jongwoneunho.github.io/ourwedding/images/og/1.jpg"
   }
 };
